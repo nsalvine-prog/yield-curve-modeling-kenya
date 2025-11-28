@@ -86,7 +86,3 @@ The task involves gathering yield data, applying modeling techniques (Nelson–S
 
 ---
 
-├── ns_yield_curve.png
-├── spline_curve.png
-└── rmse_comparison.png
-
