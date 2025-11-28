@@ -86,19 +86,6 @@ The task involves gathering yield data, applying modeling techniques (Nelson–S
 
 ---
 
-## **Project Files (suggested structure)**
-yield-curve-modeling-cbk/
-│
-├── data/
-│ ├── cbk_tbill_yields.csv
-│ └── cleaned_yields.csv
-│
-├── notebooks/
-│ ├── yield_curve_modeling.ipynb
-│ └── nelson_siegel_spline_analysis.ipynb
-│
-├── README.md
-└── plots/
 ├── ns_yield_curve.png
 ├── spline_curve.png
 └── rmse_comparison.png
